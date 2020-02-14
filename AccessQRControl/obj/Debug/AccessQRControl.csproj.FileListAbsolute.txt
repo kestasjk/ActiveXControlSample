@@ -1,0 +1,11 @@
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\bin\Debug\AccessQRControl.dll
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\bin\Debug\AccessQRControl.pdb
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\bin\Debug\AccessQRControl.tlb
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.UserControl1.resources
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.csproj.GenerateResource.cache
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.dll
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.pdb
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\bin\Debug\QRCoder.dll
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\bin\Debug\System.Drawing.Common.dll
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.csproj.CopyComplete
+C:\Users\kesta\source\repos\AccessQRControl\AccessQRControl\obj\Debug\AccessQRControl.csprojAssemblyReference.cache
